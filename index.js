@@ -1,2 +1,2 @@
-const numrate = 1;
+const numrate = 6;
 console.log(numrate)

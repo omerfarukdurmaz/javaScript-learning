@@ -1,3 +1,3 @@
 let name = 'Omer Faruk';
 let surName='Durmaz';
-console.log(name + ' ' +surName);
+console.log(name + ' ' + surName);
